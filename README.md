@@ -25,7 +25,8 @@ The data used in this report is sourced from [here](https://github.com/AlexTheAn
 
 ## Result
 The Power BI report delivers a visually engaging and interactive experience. You can preview an example of the structure and layout by downloading the following file:
-![Power BI - Project Report](https://github.com/AsuquoAA/Data_Professionals_Report/blob/main/FirstBIProject.pdf)
+![Power BI - Project Report](https://github.com/AsuquoAA/Data_Professionals_Report/blob/main/Screenshot%202025-01-11%20at%2007.24.56.png)
+can also view the report [here](https://github.com/AsuquoAA/Data_Professionals_Report/blob/main/FirstBIProject.pdf)
 
 ## License and Attribution
 This project was inspired by content from Alex The Analyst. Special thanks to Alex for providing guidance and insights through publicly available resources.
