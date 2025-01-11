@@ -24,7 +24,7 @@ This repository contains a Power BI report analyzing insights and statistics abo
 The data used in this report is sourced from [here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx).
 
 ## Result
-The Power BI report delivers a visually engaging and interactive experience. You can preview an example of the structure and layout by downloading the following file:
+The Power BI report delivers a visually engaging and interactive experience. You can preview an example of the structure and layout below:
 ![Power BI - Project Report](https://github.com/AsuquoAA/Data_Professionals_Report/blob/main/Screenshot%202025-01-11%20at%2007.24.56.png)
 can also view the report [here](https://github.com/AsuquoAA/Data_Professionals_Report/blob/main/FirstBIProject.pdf)
 
