@@ -8,6 +8,12 @@ This repository contains a Power BI report analyzing insights and statistics abo
 - **Salary Trends:** Comparative analysis of salaries across roles, industries, and regions.
 - **Happiness Metrics:** Examination of job satisfaction and work-life balance within the data field.
 
+### Project Highlights
+- **Survey Analysis:** Developed a Power BI dashboard based on a survey of 630 respondents (avg. age 29.9) that uncovers role-based salary gaps, emphasizes Python’s dominance with over 400 votes, and maps participants across five countries.
+- **Work-Life Balance & Salary Satisfaction:** Revealed moderate work-life balance (5.7/10) and low salary satisfaction (4.3/10), with 42.7% of participants facing entry barriers.
+- **End-to-End Expertise:** Demonstrates end-to-end data processing and business intelligence expertise, from data collection and analysis to visualization in Power BI.
+
+
 ## How to Use
 1. **Download the `.pbix` file** from this repository.
 2. Open the file in **Power BI Desktop**.
